@@ -1,0 +1,7 @@
+App name : Vampires in the shadows
+package name: package com.shadows.vampire
+Apk jks : vampires_in_the_shadows.jks
+Apk jks password : vampiresintheshadows
+key Alias: vampiresintheshadows
+password: vampiresintheshadows
+versionCode : 1
